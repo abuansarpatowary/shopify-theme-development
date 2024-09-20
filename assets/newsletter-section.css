@@ -21,6 +21,7 @@
 
 .newsletter__wrapper > * + .newsletter-form {
   margin-top: 3rem;
+  border-radius: 30px;
 }
 
 .newsletter__subheading {
